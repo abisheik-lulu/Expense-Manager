@@ -4,7 +4,7 @@ This project is created using `React Js`.It is single page app developed for pra
 
 ## Live Demo
 
-Open [expense-manager](https://expense-manager.abhishek29.com/) to view it in the browser.
+Open [expense-manager](http://expense-manager.abhishek29.com/) to view it in the browser.
 
 ## Available Scripts
 
